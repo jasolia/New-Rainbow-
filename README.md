@@ -4,3 +4,5 @@ Blue
 purple
 red
 yellow
+neon
+red2
